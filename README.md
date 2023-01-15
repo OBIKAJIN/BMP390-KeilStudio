@@ -1,4 +1,4 @@
-# Sensor
+# Sensor(Keil studio)
 ・NUCLEO F446REを使用してBMP390(Adafruit)のライブラリを作りました。(I2C通信用)
 ・yuki kimuraさんのBMP280(https://os.mbed.com/users/kim1212/code/BMP280/)を参考にしました。
 ・getpress()で気圧，gettemp()で気温を取得できます。
